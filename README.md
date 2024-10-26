@@ -1,4 +1,4 @@
-# buno
+# bun-raylib
 
 To install dependencies:
 
